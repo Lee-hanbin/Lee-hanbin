@@ -8,13 +8,13 @@
   <a href="#demo">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
   </a>
-    <a href="#demo">
-    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
-  </a>
-      <a href="#demo">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+  <a href="#demo">
+    <img src="https://img.shields.io/badge/Django-DC382D?style=for-the-badge&logo=Django&logoColor=white">
   </a>
   <br>
+  <a href="#demo">
+    <img src="https://img.shields.io/badge/React.js-4FC08D?style=for-the-badge&logo=React.js&logoColor=white">
+  </a>
   <a href="#demo">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
   </a>
@@ -28,22 +28,22 @@
     <a href="#demo">
     <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
   </a>
-      <a href="#demo">
+  <a href="#demo">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
   </a>
-        <a href="#demo">
+  <a href="#demo">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   </a>
   <a href="#demo">
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
   </a>
-    <a href="#demo">
+  <a href="#demo">
     <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white">
   </a>
-      <a href="#demo">
+  <a href="#demo">
     <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
   </a>
-        <a href="#demo">
+  <a href="#demo">
     <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
   </a>
 </p>
